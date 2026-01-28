@@ -14,6 +14,7 @@ with
 ```c#
 document.GeneratePdf("MY_GIGA_CV.pdf");
 ```
+Run progam, then go to this program folder -> CvGenerator\bin\Debug\net10.0 and grab your CV
 
 ### Sample result
 <img width="577" height="820" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ce6709e0-c87c-486a-b07d-0b8aaeb48896" />
